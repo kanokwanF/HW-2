@@ -1,0 +1,25 @@
+<?php include("yheader.php"); ?>
+<br></br>
+<br><Center><h1>แนะนำตัวเอง<h1></Center></br>
+<center><IMG  SRC="image/1106.jpg" WIDTH="480" HEIGHT="670" BORDER="0" ALT="Center"></center><BR>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<TABLE  align="center" width="1024" height="100" >
+
+<TR  >
+<br><center><h2>ประวัติส่วนตัว</h2></center></br>
+   <center>ชื่อ-สกุล : นางสาวกนกวรรณ  ฝีปากเพราะ  ชื่อเล่น : ฝน</center>
+   <center>เกิดวันที่ 10 เมษายน พ.ศ.2541 </center>
+   <center>จบการศึกษาจากโรงเรียนเชียงกลาง"ประชาพัฒนา" อำเภอเชียงกลาง จังหวัดน่าน </center>
+   <br><center><h2>สิ่งที่อยากแนะนำให้รู้จัก<h2></center></br>
+   <center><h3>จังหวัด...น่าน<h3></center>
+   <center>ไปเที่ยวน่านกันเต๊อะ ก็เพราะ 'น่าน' </center> 
+   <center>เป็นจังหวัดน่ารัก ผู้คนก็น่ารัก เป็นจังหวัดที่เที่ยวง่าย เต็มไปด้วยวัฒนธรรมประเพณี ทะเลภูเขาที่สลับซับซ้อน ทรัพยากรธรรมชาติก็สวยงาม      
+   มีที่เที่ยวหลากหลาย สิ่งเหล่านี้จึงเป็นเสน่ห์ของเมืองน่าน ที่ทำให้ใครหลายคนหลงรักและเลือกเดินทางมายังจังหวัดนี้</center>
+</TR>
+
+
+
+
+</TABLE>
+<hr>
+<?php include("yfooter.php"); ?>
